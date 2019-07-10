@@ -1,0 +1,13 @@
+*pyc
+/.vscode
+
+
+
+/.DS_Store
+
+.env
+
+
+/staticfiles
+
+/mediafiles
